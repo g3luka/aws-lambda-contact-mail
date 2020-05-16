@@ -1,0 +1,9 @@
+{
+  "low-score": "Você é um robô!",
+  "missing-input-secret": "O parâmetro secret está faltando.",
+  "invalid-input-secret": "O parâmetro secret é inválido ou foi mal formado.",
+  "missing-input-response": "O parâmetro response está faltando.",
+  "invalid-input-response": "O parâmetro response é inválido ou foi mal formado.",
+  "bad-request": "A requisição é inválida ou mal formada.",
+  "timeout-or-duplicate": "O response não é mais válido: ou é muito antigo ou já foi usado anteriormente."
+}

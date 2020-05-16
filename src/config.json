@@ -1,0 +1,6 @@
+{
+  "sendMailsTo": [
+    "seuemail@exemplo.com",
+    "outro_email@examplo.com"
+  ]
+}

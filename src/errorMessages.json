@@ -1,0 +1,7 @@
+{
+  "g-recaptcha-response": "Você parece ser um robô!",
+  "name": "Nome é um campo obrigatório.",
+  "email": "E-mail é um campo obrigatório.",
+  "subject": "Assunto é um campo obrigatório.",
+  "message": "Mensage é um campo obrigatório."
+}

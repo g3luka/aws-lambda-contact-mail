@@ -1,0 +1,21 @@
+{
+  "name": "contact-mail",
+  "scripts": {
+    "deploy:aws:dev": "sls deploy --stage=dev",
+    "deploy:aws:prd": "sls deploy --stage=prd",
+    "deploy:aws:stg": "sls deploy --stage=stg",
+    "package:dev": "sls package --stage=dev",
+    "package:prd": "sls package --stage=prd",
+    "package:stg": "sls package --stage=stg",
+    "local": "clear & sls invoke local --function app --path ./test/payload.js"
+  },
+  "devDependencies": {
+    "serverless": "^1.46.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "date-fns": "^2.9.0",
+    "form-data": "^3.0.0",
+    "querystring": "^0.2.0"
+  }
+}

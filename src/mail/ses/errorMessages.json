@@ -1,0 +1,8 @@
+{
+  "AccessDenied": "Acesso negado à este recurso.",
+  "AccountSendingPaused": "Envio de email está desabilitado para está conta.",
+  "ConfigurationSetDoesNotExist": "A configuração informada não existe.",
+  "ConfigurationSetSendingPaused": "Envio de email está desabilitado para está configuração",
+  "MailFromDomainNotVerified": "O Domínio do remetente (FROM) não foi verificado.",
+  "MessageRejected": "Mensagem rejeitada."
+}
